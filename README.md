@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodaimura&langs_count=20&layout=compact&card_width=350&hide=ejs,blade)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodaimura&langs_count=20&layout=compact&card_width=350&hide=ejs,blade,Batchfile,PlPgSQL)](https://github.com/anuraghazra/github-readme-stats)
